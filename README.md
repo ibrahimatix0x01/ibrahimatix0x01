@@ -29,7 +29,7 @@ I’m a self-taught developer and hacker based in Nigeria. I started my coding j
 - XSS, SQLi, and Bug Hunting
 - HackerOne (Active user)
 
-### 🌐 Blockchain & Web3 *(Learning)*
+### 🌐 Blockchain & Web3 
 - Smart Contracts
 - Ethereum Ecosystem (exploring)
 
