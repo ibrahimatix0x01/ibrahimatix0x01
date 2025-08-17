@@ -7,6 +7,7 @@ I’m a self-taught developer and hacker based in Nigeria. I started my coding j
 - 🌍  Based in **Nigeria**  
 - 📬  Contact: [**ibrahimatix0x01@wearehackerone.com**](mailto:ibrahimatix0x01@wearehackerone.com)  
 - 🧠  Currently diving deeper into **Blockchain Development & Security**
+-    Web: [HackerOne](https://hackerone.com/ibrahimatix0x01)
 
 [![Twitter](https://img.shields.io/twitter/follow/ibrahimatix0x01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/ibrahimatix0x01)
 [![GitHub](https://img.shields.io/github/followers/ibrahimatix0x01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/ibrahimatix0x01)
